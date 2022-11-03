@@ -1,0 +1,3 @@
+C:/Users/sumin/Documents/oprogramowanieuzytkowe/cmake-build-debug/CMakeFiles/oprogramowanieuzytkowe.dir
+C:/Users/sumin/Documents/oprogramowanieuzytkowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sumin/Documents/oprogramowanieuzytkowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
